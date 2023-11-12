@@ -4,7 +4,7 @@
 
 Please note that the following table of related repos that have been cited in this paper is under construction, and will be filled out in the later months as paper writing finishes. 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Title | GitHub (if Available) | Misc Notes: |
 | --------------- | --------------- | --------------- |
 | Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
 | Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
